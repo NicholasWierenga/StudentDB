@@ -1,0 +1,15 @@
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.csproj.AssemblyReference.cache
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.AssemblyInfoInputs.cache
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.AssemblyInfo.cs
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.csproj.CoreCompileInputs.cache
+C:\Users\Nick\source\repos\Deluxe\Deluxe\bin\Debug\net6.0\Deluxe.exe
+C:\Users\Nick\source\repos\Deluxe\Deluxe\bin\Debug\net6.0\Deluxe.deps.json
+C:\Users\Nick\source\repos\Deluxe\Deluxe\bin\Debug\net6.0\Deluxe.runtimeconfig.json
+C:\Users\Nick\source\repos\Deluxe\Deluxe\bin\Debug\net6.0\Deluxe.dll
+C:\Users\Nick\source\repos\Deluxe\Deluxe\bin\Debug\net6.0\Deluxe.pdb
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.dll
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\refint\Deluxe.dll
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.pdb
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\Deluxe.genruntimeconfig.cache
+C:\Users\Nick\source\repos\Deluxe\Deluxe\obj\Debug\net6.0\ref\Deluxe.dll
